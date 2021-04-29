@@ -1,1 +1,1 @@
-# javacampHomeworks
+Java&React kampının ödevlerinin olduğu repository
